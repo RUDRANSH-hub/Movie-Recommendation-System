@@ -11,3 +11,7 @@
 
 ## Dataset
 TMDB 5000 Movie Dataset --->https://drive.google.com/drive/folders/1fGhIqRQ1PsxDcBGDuhQNvGqrMmUSn-RI?usp=sharing
+
+## Similarty and movie pickle file 
+
+https://drive.google.com/drive/folders/1YB1YzHTzV2K2CuVdsWF-KqG2H6V2-jqL?usp=sharing
