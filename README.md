@@ -10,4 +10,4 @@
 3. Streamlit
 
 ## Dataset
-TMDB 5000 Movie Dataset ---> https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+TMDB 5000 Movie Dataset --->https://drive.google.com/drive/folders/1fGhIqRQ1PsxDcBGDuhQNvGqrMmUSn-RI?usp=sharing
